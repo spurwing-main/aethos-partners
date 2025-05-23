@@ -1,0 +1,8 @@
+{
+	"name": "aethos-partners",
+	"version": "1.0.0",
+	"description": "Netlify function to proxy Sonato partner API with CORS for Aethos.com",
+	"dependencies": {
+		"node-fetch": "^2.6.7"
+	}
+}
